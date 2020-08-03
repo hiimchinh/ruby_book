@@ -1,0 +1,6 @@
+list_of_years = [1975, 2004, 2013, 2001, 1981]
+puts list_of_years[0]
+puts list_of_years[1]
+puts list_of_years[2]
+puts list_of_years[3]
+puts list_of_years[4]
