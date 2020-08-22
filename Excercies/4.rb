@@ -4,4 +4,6 @@ arr.unshift(0)
 
 arr.pop
 arr.push(3)
-puts arr
+
+uniq_arr = arr.uniq
+puts uniq_arr
